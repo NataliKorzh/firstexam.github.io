@@ -32,7 +32,7 @@ body {
 
 .btn-green {
   margin: 3rem;
-  padding: 1.5rem 4rem;
+  padding: 1rem;
   border-radius: 20px;
   color: #fff;
   background: #7fba00;
@@ -88,9 +88,18 @@ nav {
   color: #a8adb4;
 }
 
+.nav-button {
+  color: #7fba00;
+  border: 1px solid;
+  border-color: #7fba00;
+  border-radius: 20px;
+  margin: 3rem;
+  padding: 1rem;
+}
+
 .btn-header {
   margin: 3rem;
-  padding: 10px;
+  padding: 1rem;
   border-radius: 20px;
   color: #7fba00;
   background: transparent;
@@ -173,7 +182,7 @@ h1 {
 
 .btn-trasparent {
   margin: 3rem;
-  padding: 1.5rem 4rem;
+  padding: 1rem;
   border-radius: 3px;
   color: #59c1ee;
   border-color: #59c1ee;
