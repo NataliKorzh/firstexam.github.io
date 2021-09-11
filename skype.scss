@@ -42,6 +42,12 @@ body {
     text-transform: uppercase;
   }
 
+  .btn :hover {
+    opacity: 1;
+    color: #1b324c;
+    
+  }
+
    nav {
     display: flex;
     justify-content: space-between;

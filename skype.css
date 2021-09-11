@@ -40,6 +40,11 @@ body {
   text-transform: uppercase;
 }
 
+.btn :hover {
+  opacity: 1;
+  color: #1b324c;
+}
+
 nav {
   display: -webkit-box;
   display: -ms-flexbox;
